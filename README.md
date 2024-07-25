@@ -1,6 +1,7 @@
 # Algorithm 8.0
-<p>This is Web Client for upcoming hackathon Algorithm 8.0</p>
+<p>This is Official page of  Algorithm 8.0 A 32 hour long Hackathon Hosted by Anjuman I Islam Kalsekar Technical Campus</p>
 <p>Mobile Client can be found <a href="https://github.com/ArmanKhanTech/Algorithm">here</a></p>
+
 
 ## Setup
 1. Clone the repository
