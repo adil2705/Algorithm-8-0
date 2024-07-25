@@ -1,6 +1,8 @@
 # Algorithm 8.0
 <p>This is Official page of  Algorithm 8.0 A 32 hour long Hackathon Hosted by Anjuman I Islam Kalsekar Technical Campus</p>
 <p>Mobile Client can be found <a href="https://github.com/ArmanKhanTech/Algorithm">here</a></p>
+Design and Develop by Technical Team of Algorithm 8.0
+Leading by Adil Ahmad and Arman Khan
 
 
 ## Setup
