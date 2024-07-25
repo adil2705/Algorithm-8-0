@@ -1,6 +1,10 @@
 # Algorithm 8.0
-<p>This is Web Client for upcoming hackathon Algorithm 8.0</p>
+<p>This is Official Web Page for  hackathon Algorithm 8.0</p>
 <p>Mobile Client can be found <a href="https://github.com/ArmanKhanTech/Algorithm">here</a></p>
+
+Design and Developed by Technical Team of Algorithm 8.0
+Leading by Adil Ahmad and Arman Khan
+
 
 ## Setup
 1. Clone the repository
